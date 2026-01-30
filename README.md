@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sihol
-- 👀 I’m interested in C# and JavaScript development and work in the finance industry
-- 🌱 I’m currently learning Kafka and serverless
+- 👀 I’m interested in C#, Rust and React development and work in the finance industry
+- 🌱 I’m currently learning Rust and working with Agentic AI
 - 💞️ I’m looking to collaborate on anything
